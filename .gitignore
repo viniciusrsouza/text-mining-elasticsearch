@@ -1,0 +1,7 @@
+# python
+venv
+__pycache__
+
+# node
+node_modules
+dist

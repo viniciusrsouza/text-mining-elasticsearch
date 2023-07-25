@@ -1,0 +1,4 @@
+fastapi[all]==0.100.0
+elasticsearch[async]==8.8.2
+polars==0.18.8
+xlsx2csv==0.8.1
